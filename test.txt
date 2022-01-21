@@ -1,4 +1,4 @@
 this is first changes in the file and changes from github
 jgsjkfsdfsdfsdfsdfds
 sfsdfsdfsd
-jnjjkhkhkjhkhThis is second merge conflict
+jsfsdsdfnjjkhkhkjhkhThis is second merge conflict
